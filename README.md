@@ -1,4 +1,4 @@
-v# Mini Wasalni - Town Navigation System
+# Mini Wasalni - Town Navigation System
 
 A C++ console application that implements a graph-based navigation system for finding shortest paths between cities. The name "Wasalni" means "get me there" in Arabic, reflecting the app's purpose of helping users navigate between towns.
 

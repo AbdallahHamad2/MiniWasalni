@@ -82,23 +82,7 @@ Select option `2`, then choose:
 ### 4. Display Graph
 - Select option `4` to view all cities and their connections
 
-## Example Usage
-```
-Enter number of cities: 4
-City 1: Cairo
-City 2: Alexandria
-City 3: Giza
-City 4: Port Said
 
-Enter number of edges: 4
-Edge 1: Cairo -> Alexandria, Weight: 220
-Edge 2: Cairo -> Giza, Weight: 30
-Edge 3: Alexandria -> Port Said, Weight: 240
-Edge 4: Giza -> Alexandria, Weight: 200
-
-Finding shortest path from Cairo to Port Said:
-Result: Cairo -> Alexandria -> Port Said (Distance: 460 km)
-```
 
 ## Limitations
 
